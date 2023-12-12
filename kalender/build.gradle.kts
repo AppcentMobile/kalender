@@ -66,7 +66,7 @@ publishing {
                 from(components["release"])
             }
 
-            groupId = "mobi.appcent"
+            groupId = "mobi.appcent.android"
             artifactId = "kalender"
             version = "1.0.0"
         }
